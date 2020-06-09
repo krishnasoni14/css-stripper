@@ -45,8 +45,4 @@ describe('css-parser Object', function () {
       expect(result).to.equal(95);
     });
   });
-
-
-
-
 });
